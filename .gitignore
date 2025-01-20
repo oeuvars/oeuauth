@@ -1,0 +1,6 @@
+.env
+tmp/
+certs/
+*.pem
+*.key
+.DS_Store
